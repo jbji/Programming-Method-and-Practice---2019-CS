@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/2020ad-p11-Kapai/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/2020ad-p11-Kapai/cmake-build-debug/CMakeFiles/2020ad_p11_Kapai.dir
+C:/Users/jbji/CLionProjects/2020ad-p11-Kapai/cmake-build-debug/CMakeFiles/rebuild_cache.dir

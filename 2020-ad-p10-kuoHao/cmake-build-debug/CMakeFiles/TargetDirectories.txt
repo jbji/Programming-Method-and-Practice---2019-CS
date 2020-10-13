@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/2020-ad-p10-kuoHao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jbji/CLionProjects/2020-ad-p10-kuoHao/cmake-build-debug/CMakeFiles/2020_ad_p10_kuoHao.dir
+C:/Users/jbji/CLionProjects/2020-ad-p10-kuoHao/cmake-build-debug/CMakeFiles/edit_cache.dir

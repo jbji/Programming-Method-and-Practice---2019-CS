@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/2020ad-problem-a-simu/cmake-build-debug/CMakeFiles/2020ad_problem_a_simu.dir
+C:/Users/jbji/CLionProjects/2020ad-problem-a-simu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/2020ad-problem-a-simu/cmake-build-debug/CMakeFiles/rebuild_cache.dir

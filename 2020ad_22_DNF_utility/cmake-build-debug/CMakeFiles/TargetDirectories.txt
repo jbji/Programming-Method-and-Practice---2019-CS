@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/2020ad_22_DNF_utility/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jbji/CLionProjects/2020ad_22_DNF_utility/cmake-build-debug/CMakeFiles/2020ad_22_DNF_utility.dir
+C:/Users/jbji/CLionProjects/2020ad_22_DNF_utility/cmake-build-debug/CMakeFiles/edit_cache.dir

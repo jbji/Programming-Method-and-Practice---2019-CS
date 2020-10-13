@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/2020ad-p16-manhattanDistance/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/2020ad-p16-manhattanDistance/cmake-build-debug/CMakeFiles/2020ad_p16_manhattanDistance.dir
+C:/Users/jbji/CLionProjects/2020ad-p16-manhattanDistance/cmake-build-debug/CMakeFiles/rebuild_cache.dir

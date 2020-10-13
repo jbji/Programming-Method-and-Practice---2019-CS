@@ -1,0 +1,14 @@
+//
+// Created by jbji on 9/18/2020.
+//
+
+#ifndef INC_2020AD_P19_STONYLAKE_TESTCLASS_H
+#define INC_2020AD_P19_STONYLAKE_TESTCLASS_H
+
+
+class TestClass {
+
+};
+
+
+#endif //INC_2020AD_P19_STONYLAKE_TESTCLASS_H

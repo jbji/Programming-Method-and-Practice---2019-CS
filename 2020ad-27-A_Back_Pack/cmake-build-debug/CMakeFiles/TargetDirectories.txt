@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/2020ad-27-A_Back_Pack/cmake-build-debug/CMakeFiles/2020ad_27_A_Back_Pack.dir
+C:/Users/jbji/CLionProjects/2020ad-27-A_Back_Pack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jbji/CLionProjects/2020ad-27-A_Back_Pack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

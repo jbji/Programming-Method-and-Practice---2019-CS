@@ -1,0 +1,3 @@
+C:/Users/jbji/CLionProjects/2020ad-27-backpack-baidu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jbji/CLionProjects/2020ad-27-backpack-baidu/cmake-build-debug/CMakeFiles/2020ad_27_backpack_baidu.dir
+C:/Users/jbji/CLionProjects/2020ad-27-backpack-baidu/cmake-build-debug/CMakeFiles/edit_cache.dir

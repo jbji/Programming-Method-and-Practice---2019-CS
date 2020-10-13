@@ -1,0 +1,17 @@
+Left: 0; mid: 25565; isLoop? 1
+Left: 0; mid: 12782; isLoop? 0
+Left: 12782; mid: 19173; isLoop? 0
+Left: 19173; mid: 22369; isLoop? 0
+Left: 22369; mid: 23967; isLoop? 0
+Left: 23967; mid: 24766; isLoop? 0
+Left: 24766; mid: 25165; isLoop? 0
+Left: 25165; mid: 25365; isLoop? 0
+Left: 25365; mid: 25465; isLoop? 0
+Left: 25465; mid: 25515; isLoop? 0
+Left: 25515; mid: 25540; isLoop? 0
+Left: 25540; mid: 25552; isLoop? 0
+Left: 25552; mid: 25558; isLoop? 0
+Left: 25558; mid: 25561; isLoop? 0
+Left: 25561; mid: 25563; isLoop? 0
+Left: 25563; mid: 25564; isLoop? 0
+25565
